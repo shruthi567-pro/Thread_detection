@@ -49,10 +49,6 @@ Explore the `awesome-threat-detection/` directory for detailed resources, or vis
 - [Sigma](https://github.com/SigmaHQ/sigma) - Detection rule format
 - [HELK](https://github.com/Cyb3rWard0g/HELK) - Hunting ELK stack
 
-## Contributing
-
-This project aggregates community resources. See individual repositories for contribution guidelines.
-
 ## License
 
 CC0 - Public Domain
